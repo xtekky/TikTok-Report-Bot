@@ -3,6 +3,8 @@
 
 <h1 align="center">💎X-REPORTER [ TikTok Report Bot ]</h1>
 
+Bot is in main.py file
+
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
 </p>
