@@ -54,16 +54,13 @@ if __name__ == '__main__':
 
     print(Colorate.Horizontal(Colors.blue_to_purple, txt, 1))
 
-    with open("proxies.txt", "r") as f: 
-        for line1 in f.readlines():
-            prox.add(line1.strip())
         
     user = Write.Input("       [?] Username > ", Colors.blue_to_purple, interval=0.001)
     print("")
     
     userid = requests.get(f'https://www.tiktok.com/node/share/user/@{user}', headers={'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36'}).json()["userInfo"]['user']['id']
     
-    
+   
     start_time = time.time()
     
     
