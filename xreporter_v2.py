@@ -4,7 +4,7 @@ import requests, json, threading, random
 class Reporter:
     def __init__(self):
         self.username = input(' [ ? ] Username: ')
-        self.reason = "317" #underage ~ 13
+        self.reason = "317" #underage 13
         self.report_count = 0
         self.threads = int(input(' [ ? ] Threads: '))
 
