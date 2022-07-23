@@ -1,7 +1,7 @@
 
-<h4 align="center">
+<h3 align="center">
   50 stars = release 100% working bot, app api using sessid / multiple account support etc...
-</h4>
+</h3>
 
 &nbsp;
 &nbsp;
