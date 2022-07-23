@@ -10,60 +10,18 @@
 &nbsp;
 &nbsp;
 
+<h4 align="center">
+  - proof -
+</h4>
 
-
-<!--
-<h1 align="center">💎X-REPORTER [ TikTok Report Bot ]</h1>
-
-Bot is in main.py file
-
-<p align='center'>
-  <b>Star ⭐ if you want more</b><br>
+<p align="center"> 
+  <kbd>
+<img src="https://user-images.githubusercontent.com/98614666/180614619-4b7a8972-cd93-491a-91a7-ea22a54b859c.jpg"></img>
+  </kbd>
 </p>
 
-## Discord Server
-```js
- * discord.gg/onlp
-```
-## Demo
 
-https://user-images.githubusercontent.com/98614666/165651258-2d4ec381-c750-4ca6-b731-a8068cb98630.mp4
-
-
-## Skids
-```js
- soon
-```
-
-## New
-```js
- * soon
-```
-## To come
-```js
-  * soon
-```
-## Features
-```js
-  * soon
-```
-## Requirements
-```js
-  * pip install requests
-  * pip install pystyle
-```
-
-## Installation
-```js
-  * run the "start.bat" file
-```
-
-##  Usage:
-```js
-  * soon
-```
--->
-
+&nbsp;
 <!-- ##  Credits: -->
  > [![](https://cdn.discordapp.com/avatars/840541540203626516/a_623bba089006ad306056ef863f2fd071.gif?size=128)](https://github.com/xtekky) <br>!& Tekky#1337
 
