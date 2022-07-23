@@ -1,6 +1,6 @@
-# 
+50 stars = release 100% working bot, app api using sessid / multiple account support etc...
 
-
+<!--
 <h1 align="center">💎X-REPORTER [ TikTok Report Bot ]</h1>
 
 Bot is in main.py file
@@ -54,5 +54,5 @@ https://user-images.githubusercontent.com/98614666/165651258-2d4ec381-c750-4ca6-
 
 ##  Credits:
  > [![](https://cdn.discordapp.com/avatars/719864492514738226/a_5de73a96793f9b0b3cbbafc2efc25ec7.gif?size=100)](https://github.com/xtekky) <br>Tekky © 2022 | ONLP™
-
+-->
 
