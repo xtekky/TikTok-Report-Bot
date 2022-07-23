@@ -50,9 +50,9 @@ https://user-images.githubusercontent.com/98614666/165651258-2d4ec381-c750-4ca6-
 ```js
   * soon
 ```
-
+-->
 
 ##  Credits:
- > [![](https://cdn.discordapp.com/avatars/719864492514738226/a_5de73a96793f9b0b3cbbafc2efc25ec7.gif?size=100)](https://github.com/xtekky) <br>Tekky © 2022 | ONLP™
--->
+ > [![](https://images-ext-2.discordapp.net/external/VRJy-fBpIHsJ4Wp61jIgItAtBGV1RMeb9xSwCSHlqfI/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/840541540203626516/a_623bba089006ad306056ef863f2fd071.gif)](https://github.com/xtekky) <br>Tekky © 2022 | ONLP™
+
 
