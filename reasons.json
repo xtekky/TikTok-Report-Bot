@@ -1,4 +1,4 @@
-"""
+{
 "reason_type": 9101,
 "text": "Report account",
 
@@ -143,4 +143,4 @@
 
 "reason_type": 9102,
 "text": "Report content"
-"""
+}
