@@ -1,0 +1,465 @@
+{
+  "log_pb": {
+    "impr_id": "20220724225934010192061026196B1FED"
+  },
+  "status_code": 0,
+  "data": [
+    {
+      "reason_type": 9101,
+      "text": "Report account",
+      "audit_type": 2,
+      "special_type": 0,
+      "next_reason": [
+        {
+          "category": "",
+          "reason_type": 91011,
+          "text": "Posting Inappropriate Content",
+          "audit_type": 2,
+          "special_type": 0,
+          "next_reason": [
+            {
+              "reason_type": 9009,
+              "text": "Minor safety",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "option": "{\"intro\":{\"title\":\"Nudity or sexual activity of minors\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content exposing minors' genitals, buttocks, or pubic region, or nipples of female minors\\nContent showing minors undressing or in minimal clothing that is not relevant, such as a swimsuit in a non-swimming setting\\nContent showing minors along with sexually explicit song lyrics, or minors dancing in a sexual way, such as fondling one's own or someone else's groin or breasts\\nSexual comments, emojis, text, or other graphics used within a video to veil or imply nudity or sexual activity of minors\\n\\\"Nudity or sexual activity of minors\\\" is defined as video, image, or language content that shows or implies minors are nude or engaging in sexual activities.\",\"extra\":{}}}",
+                  "category": "",
+                  "reason_type": 90093,
+                  "text": "Nudity or sexual activity of minors",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": []
+                },
+                {
+                  "reason_type": 90097,
+                  "text": "Abuse or crimes against minors",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Abuse or crimes against minors\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that requests, promotes, or facilitates sexual assault, molestation, murder, physical abuse or neglect, abduction, international parental kidnapping, trafficking, underage labor, underage marriage, exploitation of minors for prostitution, live online sexual abuse of minors, or sexual exploitation of minors in the context of travel and tourism, attempts to obtain or distribute child sexual abuse material or more general child abuse imagery, and the production, possession, or distribution of child sexual abuse material.\\nContent that engages with minors in a sexual way, sexualizes a minor through product features such as Duet, or shows, promotes, normalizes, or glorifies grooming behaviors such as attempting to establish a trusting relationship with minors for the purpose of child sexual abuse.\\nContent that shows, requests, glorifies, or encourages child abuse imagery including nudity, sexualized minors, sexual activity with minors, pedophilia, or sexual assault of minors\\nContent that revictimizes or capitalizes on minor victims of abuse by resharing or reenacting assaults or confessions\\nContent that requests real-world contact or contact on another platform or website, between minors and adults, or between minors with a large age gap\\nContent that displays or offers nudity to minors, or requests nude imagery or sexual contact, through blackmail or other means of coercion\\n\\\"Abuse or crimes against minors\\\" are defined as video, image, or language content that requests, promotes, or facilitates serious physical, mental, or emotional harm of minors. Child abuse is a form of exploitation, in which a minor is used for profit, labor, sexual gratification, or some other personal or financial advantage.\"}}",
+                  "category": ""
+                },
+                {
+                  "category": "",
+                  "reason_type": 90095,
+                  "text": "Dangerous or illegal behaviors by minors",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that suggests, shows, imitates, or promotes the possession or consumption of alcohol, tobacco, or drugs by minors, including using emojis to promote the unauthorized use of over-the-counter medication\\nContent that instructs minors how to buy, sell, or trade alcohol, tobacco, or controlled substances\\nContent that shows or promotes activities that may be dangerous for minors, including physical challenges, dares, or stunts such as eating dangerous substances or foods for a challenge\\n\\\"Dangerous or illegal behaviors by minors\\\" is defined as video, image or language content that suggests, shows, or imitates minors engaging in activities that are harmful to their physical, mental, or emotional well-being.\",\"extra\":{},\"title\":\"Dangerous or illegal behaviors by minors\"}}"
+                }
+              ],
+              "option": "{}",
+              "category": ""
+            },
+            {
+              "text": "Dangerous acts and challenges",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Dangerous acts and challenges\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that shows or suggests inappropriate use of dangerous tools or objects\\nContent that shows dangerous driving behavior\\nContent that shows or promotes ingesting substances that are not meant for consumption and could lead to severe harm\\nContent that describes or provides instructions on how to perform a dangerous activity\\nDangerous games, dares, challenges, or stunts that might lead to injury or property damage\"}}",
+              "category": "",
+              "reason_type": 90064
+            },
+            {
+              "text": "Suicide, self-harm, and disordered eating",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "category": "",
+                  "reason_type": 90061,
+                  "text": "Suicide and self-harm",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Suicide and self-harm\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that shows, promotes, normalizes, or glorifies suicide or self-harm\\nContent that gives instructions on how to attempt suicide or how to engage in self-harm\\nGames, dares, challenges, pacts, or hoaxes to do with suicide or self-harm\"}}"
+                },
+                {
+                  "option": "{\"intro\":{\"title\":\"Disordered eating\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that shows, promotes, normalizes, or glorifies disordered eating\\nContent that shows, promotes, normalizes, or glorifies dangerous weight loss behaviors that can be linked to disordered eating\",\"extra\":{}}}",
+                  "category": "",
+                  "reason_type": 90063,
+                  "text": "Disordered eating",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": []
+                }
+              ],
+              "option": "{}",
+              "category": "",
+              "reason_type": 9006
+            },
+            {
+              "category": "",
+              "reason_type": 9008,
+              "text": "Adult nudity and sexual activities",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "category": "porn",
+                  "reason_type": 90081,
+                  "text": "Adult nudity and sexually explicit content",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Adult nudity and sexually explicit content\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Nudity, pornography, or sexually explicit content\"}}"
+                },
+                {
+                  "category": "porn",
+                  "reason_type": 90082,
+                  "text": "Sexual assault or sharing of private intimate images",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Sexual assault or sharing of private intimate images\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content showing or supporting sexual assault, sharing of private intimate images, or sexual solicitation\"}}"
+                }
+              ],
+              "option": "{}"
+            },
+            {
+              "category": "",
+              "reason_type": 9007,
+              "text": "Bullying and harassment",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "audit_type": 2,
+                  "special_type": 1,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"subtitle\":\"We don't allow:\",\"introduction\":\"Content degrading somebody or wishing them harm\\nContent that encourages coordinated harassment\\nContent that shows physical bullying to humiliate somebody\\nContent that sexually harasses somebody\\nContent that threatens to disclose personal information\",\"extra\":{},\"title\":\"I've been bullied or harassed\"}}",
+                  "category": "",
+                  "reason_type": 1001,
+                  "text": "I've been bullied or harassed"
+                },
+                {
+                  "next_reason": [],
+                  "option": "{}",
+                  "category": "",
+                  "reason_type": 1002,
+                  "text": "Someone I know has been bullied or harassed",
+                  "audit_type": 2,
+                  "special_type": 1
+                },
+                {
+                  "special_type": 1,
+                  "next_reason": [],
+                  "option": "{}",
+                  "category": "",
+                  "reason_type": 1003,
+                  "text": "A celebrity or government official has been bullied or harassed",
+                  "audit_type": 2
+                },
+                {
+                  "audit_type": 2,
+                  "special_type": 1,
+                  "next_reason": [],
+                  "option": "{}",
+                  "category": "",
+                  "reason_type": 1004,
+                  "text": "Others have been bullied or harassed"
+                }
+              ],
+              "option": "{}"
+            },
+            {
+              "reason_type": 9002,
+              "text": "Hateful behavior",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [],
+              "option": "{\"intro\":{\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that contains hate speech or involves hateful behavior\\nContent that attacks, threatens, incites violence against, or dehumanizes a person or a group because of their protected attributes: race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, serious disease, disability, and immigration status\\nContent that is clearly hostile toward people because of the above protected attributes\",\"extra\":{},\"title\":\"Hateful behavior\"}}",
+              "category": ""
+            },
+            {
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "reason_type": 90011,
+                  "text": "Terrorist, criminal, and hateful organizations",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that praises, promotes, glorifies, or supports terrorist, hate, or criminal organizations.\",\"extra\":{},\"title\":\"Terrorist, criminal, and hateful organizations\"}}",
+                  "category": ""
+                },
+                {
+                  "category": "",
+                  "reason_type": 90010,
+                  "text": "Violent threat or incitement to violence",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"title\":\"Violent threat or incitement to violence\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Statements of intent to physically injure a person or a group\\nStatements or images that encourage physical violence\\nCalls to bring weapons to a location to intimidate or threaten a person or a group with violence\\nInstructions on how to make or use weapons to incite violence\",\"extra\":{}}}"
+                }
+              ],
+              "option": "{}",
+              "category": "",
+              "reason_type": 9001,
+              "text": "Violent extremism",
+              "audit_type": 2
+            },
+            {
+              "text": "Spam and fake engagement",
+              "audit_type": 2,
+              "special_type": 3,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Spam and fake engagement\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Information on how to artificially increase views, likes, followers, comments, or content sharing activity\\nSelling or buying of views, likes, followers, comments, or content sharing activity\\nContent that promotes artificial traffic generation services\\nOperating multiple TikTok accounts to distribute spam\"}}",
+              "category": "spam",
+              "reason_type": 9010
+            },
+            {
+              "reason_type": 9011,
+              "text": "Harmful misinformation",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "reason_type": 90112,
+                  "text": "Health",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Health\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Misinformation that could harm the health of a person or the general public, including harmful medical advice or inaccurate information about potentially deadly diseases and vaccines.\"}}",
+                  "category": ""
+                },
+                {
+                  "reason_type": 90113,
+                  "text": "Other harmful misinformation",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Other harmful misinformation\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Misinformation that incites hate or prejudice\\nMisinformation about emergencies that causes panic\\nConspiracy theories that attack or blame a protected group, deny a tragic event, or call for violence\\nDoctored videos that distort the truth of events and cause significant harm to the subjects of a video, other persons, or society\"}}",
+                  "category": ""
+                }
+              ],
+              "option": "{}",
+              "category": ""
+            },
+            {
+              "category": "",
+              "reason_type": 9003,
+              "text": "Illegal activities and regulated goods",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [
+                {
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"title\":\"Promotion of criminal activities\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that promotes physical harm, such as assault or kidnapping\\nContent that risks the safety of others, including swatting\\nContent that promotes human exploitation, including human smuggling, bonded labor, domestic servitude, sex trafficking, or prostitution\\nContent that promotes damage to property\\nContent that promotes the poaching or illegal trade of wildlife\\nContent that tries to buy, sell, trade, or request goods that are illegally acquired or counterfeit\\nContent that gives instructions on how to carry out criminal activities that harm people, animals, or property\",\"extra\":{}}}",
+                  "category": "",
+                  "reason_type": 90031,
+                  "text": "Promotion of criminal activities",
+                  "audit_type": 2,
+                  "special_type": 0
+                },
+                {
+                  "reason_type": 90032,
+                  "text": "Sale or use of weapons",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Sale or use of weapons\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that displays firearms, firearm accessories, ammunition, or explosive weapons\\nContent that tries to buy, sell, trade, or request firearms, accessories, ammunition, explosive weapons, or instructions on how to manufacture them\"}}",
+                  "category": ""
+                },
+                {
+                  "reason_type": 90033,
+                  "text": "Drugs and controlled substances",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"title\":\"Drugs and controlled substances\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that shows or promotes drugs or drug consumption, or encourages others to make, use, or trade drugs or other controlled substances\\nContent that tries to buy, sell, trade, or request drugs or other controlled substances, alcohol, or tobacco products including vaping products, smokeless or combustible tobacco products, synthetic nicotine products, e-cigarettes, and other such similar products\\nContent that gives information on how to buy illegal or controlled substances\\nContent that shows or promotes the misuse of legal substances, or instructions on how to make substances that can cause intoxication\",\"extra\":{}}}",
+                  "category": ""
+                },
+                {
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"introduction\":\"Content that promotes casinos, sports betting, poker, lotteries, gambling-related software and apps, or other gambling services\",\"extra\":{},\"title\":\"Gambling\",\"subtitle\":\"We don't allow:\"}}",
+                  "category": "",
+                  "reason_type": 90034,
+                  "text": "Gambling"
+                },
+                {
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Privacy and personal data\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that contains personal data or personally identifiable information\"}}",
+                  "category": "",
+                  "reason_type": 90035,
+                  "text": "Privacy and personal data",
+                  "audit_type": 2
+                },
+                {
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that shows or promotes trafficking of endangered animals, including the sale and purchase of live species, their parts, or related products\\nContent that requests or gives information on how to engage in illegal wildlife trade\",\"extra\":{},\"title\":\"Wildlife trafficking\"}}",
+                  "category": "",
+                  "reason_type": 90036,
+                  "text": "Wildlife trafficking",
+                  "audit_type": 2
+                },
+                {
+                  "reason_type": 9004,
+                  "text": "Frauds and scams",
+                  "audit_type": 2,
+                  "special_type": 0,
+                  "next_reason": [],
+                  "option": "{\"intro\":{\"extra\":{},\"title\":\"Frauds and scams\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content that promotes phishing\\nContent that promotes Ponzi, multi-level marketing, or pyramid schemes\\nContent that promotes investment schemes with promises of high returns, fixed betting, or any other scam\"}}",
+                  "category": ""
+                }
+              ],
+              "option": "{}"
+            },
+            {
+              "text": "Violent and graphic content",
+              "audit_type": 2,
+              "special_type": 0,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Violent and graphic content\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Content showing violent or accidental death of real people\\nContent showing the killing of real animals\\nContent showing dismembered, mutilated, charred, or burned human and animal remains\\nGory content focusing on an open wound or injury\\nContent showing severe physical violence among people\\nContent showing animal abuse\"}}",
+              "category": "",
+              "reason_type": 9005
+            },
+            {
+              "reason_type": 9012,
+              "text": "Intellectual property infringement",
+              "audit_type": 2,
+              "special_type": 2,
+              "next_reason": [],
+              "option": "{}",
+              "category": ""
+            }
+          ],
+          "option": "{}"
+        },
+        {
+          "special_type": 0,
+          "next_reason": [
+            {
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Pretending to Be Someone\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Actions that impersonate other individuals or organizations in order to deceive the public\"}}",
+              "category": "",
+              "reason_type": 910121,
+              "text": "Me",
+              "audit_type": 2,
+              "special_type": 4
+            },
+            {
+              "reason_type": 910122,
+              "text": "Celebrity",
+              "audit_type": 2,
+              "special_type": 4,
+              "next_reason": [],
+              "option": "{}",
+              "category": ""
+            }
+          ],
+          "option": "{}",
+          "category": "",
+          "reason_type": 91012,
+          "text": "Pretending to Be Someone",
+          "audit_type": 2
+        },
+        {
+          "category": "",
+          "reason_type": 91013,
+          "text": "Inappropriate Profile Info",
+          "audit_type": 2,
+          "special_type": 5,
+          "next_reason": [
+            {
+              "reason_type": 910131,
+              "text": "Profile Photo",
+              "audit_type": 2,
+              "special_type": 5,
+              "next_reason": [],
+              "option": "{\"intro\":{\"introduction\":\"Imagery or text that violates our Community Guidelines\",\"extra\":{},\"title\":\"Inappropriate Profile Info\",\"subtitle\":\"We don't allow:\"}}",
+              "category": ""
+            },
+            {
+              "reason_type": 910132,
+              "text": "Nickname",
+              "audit_type": 2,
+              "special_type": 5,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Inappropriate Profile Info\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Imagery or text that violates our Community Guidelines\"}}",
+              "category": ""
+            },
+            {
+              "reason_type": 910133,
+              "text": "Username",
+              "audit_type": 2,
+              "special_type": 5,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Inappropriate Profile Info\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Imagery or text that violates our Community Guidelines\"}}",
+              "category": ""
+            },
+            {
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Inappropriate Profile Info\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Imagery or text that violates our Community Guidelines\"}}",
+              "category": "",
+              "reason_type": 910134,
+              "text": "Bio",
+              "audit_type": 2,
+              "special_type": 5,
+              "next_reason": []
+            },
+            {
+              "audit_type": 2,
+              "special_type": 5,
+              "next_reason": [],
+              "option": "{\"intro\":{\"extra\":{},\"title\":\"Inappropriate Profile Info\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Imagery or text that violates our Community Guidelines\"}}",
+              "category": "",
+              "reason_type": 910135,
+              "text": "Link"
+            }
+          ],
+          "option": "{}"
+        },
+        {
+          "next_reason": [],
+          "option": "{\"intro\":{\"extra\":{},\"title\":\"User could be under 13 years old\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Users who are too young to be on TikTok\"}}",
+          "category": "",
+          "reason_type": 91014,
+          "text": "User could be under 13 years old",
+          "audit_type": 2,
+          "special_type": 0
+        },
+        {
+          "reason_type": 9012,
+          "text": "Intellectual property infringement",
+          "audit_type": 2,
+          "special_type": 2,
+          "next_reason": [],
+          "option": "{}",
+          "category": ""
+        },
+        {
+          "reason_type": 9013,
+          "text": "Other",
+          "audit_type": 2,
+          "special_type": 0,
+          "next_reason": [],
+          "option": "{\"intro\":{\"extra\":{},\"title\":\"Other\",\"subtitle\":\"We don't allow:\",\"introduction\":\"Our priority is to provide a safe and supportive environment. We also encourage authentic interactions by keeping deceptive content and accounts off our platform.\"}}",
+          "category": ""
+        }
+      ],
+      "option": "{}",
+      "category": ""
+    },
+    {
+      "special_type": 0,
+      "next_reason": [],
+      "option": "{\"redirect_to\":\"https://www.tiktok.com/falcon/communitysafety/page/help/index.html?hide_nav_bar=0\"}",
+      "category": "",
+      "reason_type": 9102,
+      "text": "Report content",
+      "audit_type": 2
+    }
+  ],
+  "extra": {
+    "now": 1658703574000,
+    "fatal_item_ids": [],
+    "logid": "20220724225934010192061026196B1FED"
+  }
+}
