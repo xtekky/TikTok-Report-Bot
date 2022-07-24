@@ -1,146 +1,96 @@
 {
 "reason_type": 9101,
 "text": "Report account",
-
 "reason_type": 91011,
 "text": "Posting Inappropriate Content",
-
 "reason_type": 9009,
 "text": "Minor safety",
-
 "reason_type": 90093,
 "text": "Nudity or sexual activity of minors",
-
 "reason_type": 90097,
 "text": "Abuse or crimes against minors",
-
 "reason_type": 90095,
 "text": "Dangerous or illegal behaviors by minors",
-
 "reason_type": 90064
 "text": "Suicide, self-harm, and disordered eating",
-
 "reason_type": 90061,
 "text": "Suicide and self-harm",
-
 "reason_type": 90063,
 "text": "Disordered eating",
-
 "reason_type": 9006
-
 "reason_type": 9008,
 "text": "Adult nudity and sexual activities",
-
 "reason_type": 90081,
 "text": "Adult nudity and sexually explicit content",
-
 "reason_type": 90082,
 "text": "Sexual assault or sharing of private intimate images",
-
 "reason_type": 9007,
 "text": "Bullying and harassment",
-
 "reason_type": 1001,
 "text": "I've been bullied or harassed"
-
 "reason_type": 1002,
 "text": "Someone I know has been bullied or harassed",
-
 "reason_type": 1003,
 "text": "A celebrity or government official has been bullied or harassed",
-
 "reason_type": 1004,
 "text": "Others have been bullied or harassed"
-
 "reason_type": 9002,
 "text": "Hateful behavior",
-
 "reason_type": 90011,
 "text": "Terrorist, criminal, and hateful organizations",
-
 "reason_type": 90010,
 "text": "Violent threat or incitement to violence",
-
 "reason_type": 9001,
 "text": "Violent extremism",
-
 "reason_type": 9010
-
 "reason_type": 9011,
 "text": "Harmful misinformation",
-
 "reason_type": 90112,
 "text": "Health",
-
 "reason_type": 90113,
 "text": "Other harmful misinformation",
-
 "reason_type": 9003,
 "text": "Illegal activities and regulated goods",
-
 "reason_type": 90031,
 "text": "Promotion of criminal activities",
-
 "reason_type": 90032,
 "text": "Sale or use of weapons",
-
 "reason_type": 90033,
 "text": "Drugs and controlled substances",
-
 "reason_type": 90034,
 "text": "Gambling"
-
 "reason_type": 90035,
 "text": "Privacy and personal data",
-
 "reason_type": 90036,
 "text": "Wildlife trafficking",
-
 "reason_type": 9004,
 "text": "Frauds and scams",
-
 "text": "Violent and graphic content",
 "reason_type": 9005
-
 "reason_type": 9012,
 "text": "Intellectual property infringement",
-
 "reason_type": 910121,
 "text": "Me",
-
 "reason_type": 910122,
 "text": "Celebrity",
-
 "reason_type": 91012,
 "text": "Pretending to Be Someone",
-
 "reason_type": 91013,
 "text": "Inappropriate Profile Info",
-
 "reason_type": 910131,
 "text": "Profile Photo",
-
 "reason_type": 910132,
 "text": "Nickname",
-
 "reason_type": 910133,
 "text": "Username",
-
 "reason_type": 910134,
 "text": "Bio",
-
 "reason_type": 910135,
 "text": "Link"
-
 "reason_type": 91014,
 "text": "User could be under 13 years old",
-
-"reason_type": 9012,
-"text": "Intellectual property infringement",
-
 "reason_type": 9013,
 "text": "Other",
-
 "reason_type": 9102,
 "text": "Report content"
 }
