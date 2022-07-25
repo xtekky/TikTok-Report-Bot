@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  releasing soon
+  releasing soon | DM for early access (need to be a dev)
 </h3>
 
 &nbsp;
