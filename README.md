@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  releasing soon | DM for early access (need to be a dev)
+  not moron-friendly yet | DM for early access (need to know your shit)
 </h3>
 
 &nbsp;
