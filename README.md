@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  not moron-friendly yet | DM for early access (need to know your shit)
+  not user-friendly yet | DM for early access (need to know your shit)
 </h3>
 
 &nbsp;
