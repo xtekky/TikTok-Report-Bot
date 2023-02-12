@@ -52,7 +52,7 @@ class TikReport:
 if __name__ == '__main__':
     threads    = 10
     cookies    = {c.name: c.value for c in chrome(domain_name='tiktok.com')}
-    username   = 'sadtok101' #input('username: ')
+    username   = input('username: ')
     
     if not cookies.get('sessionid'):
         cookies['sessionid'] = input('sessionid: ')
