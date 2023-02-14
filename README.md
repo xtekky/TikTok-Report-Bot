@@ -1,4 +1,4 @@
-### new discord server: https://discord.gg/onlpx
+### new discord server: https://discord.gg/onlp
 
 <h3 align="center">
   updated and working !!
